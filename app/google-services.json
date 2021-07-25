@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "570423818276",
+    "project_id": "jackhuawei-1a741",
+    "storage_bucket": "jackhuawei-1a741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570423818276:android:c750bcee736c842ebe40b1",
+        "android_client_info": {
+          "package_name": "com.jack.jackhuawei.huawei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570423818276-ceb762bhmcfg38v0ge6nd5iap9vrcf46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jack.jackhuawei.huawei",
+            "certificate_hash": "060b0097c5ed215246c826562133702f66383d71"
+          }
+        },
+        {
+          "client_id": "570423818276-d46bin317vvjpeidhfh8ii3pgbhq2f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq10vsea5xA15-aOec_CI3O6ZfPHE8cIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570423818276-d46bin317vvjpeidhfh8ii3pgbhq2f8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

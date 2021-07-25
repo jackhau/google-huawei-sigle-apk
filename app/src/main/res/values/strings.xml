@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">google huawei</string>
+
+    <string name="google_play_packagename_id">com.android.vending</string>
+    <string name="app_gallery_packagename_id">com.huawei.appmarket</string>
+</resources>
